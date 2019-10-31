@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://muto-ct.jp/sitemap.txt
